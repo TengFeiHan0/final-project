@@ -1,0 +1,4 @@
+  <launch>
+  <node name="SLAM" pkg="SLAM" type="SLAM" args="/home/omid/my_workspace/SLAM/Data/ORBvoc.txt /home/omid/my_workspace/SLAM/Data/Drone.yaml"/>
+
+</launch>

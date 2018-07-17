@@ -1,0 +1,5 @@
+  <launch>
+  <node name="SLAM" pkg="SLAM" type="SLAM" args="/home/omid/my_workspace/SLAM/Data/ORBvoc.txt /home/omid/my_workspace/SLAM/Data/PS3.yaml"/>
+  <node name="Pub_img" pkg="rec_img" type="main" />
+
+</launch>
