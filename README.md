@@ -18,7 +18,9 @@ and other dependencies used for each libraries.
 
 # 2. testing environment
 ros-indigo + Ubuntu 14.04(best choice)
-ros-kinetic+Ubuntu 16.04
+
+ros-kinetic+Ubuntu 16.04(probably good)
+
 please build up a rosbuild(http://wiki.ros.org/rosbuild) workspace to store these packages, if you want to use catkin, please edit and create relevant files. 
 
 # 3. Acknowledgements
