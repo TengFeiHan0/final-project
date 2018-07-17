@@ -1,0 +1,20 @@
+<package>
+  <description brief="ros_segmentation">
+
+     ros_segmentation
+
+  </description>
+  <author>omid</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_segmentation</url>
+  <depend package="pcl_conversions"/>
+  <depend package="pcl_ros"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  
+</package>
+
+
