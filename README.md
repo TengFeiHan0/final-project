@@ -17,7 +17,7 @@ Egien:http://eigen.tuxfamily.org/index.php?title=Main_Page
 
 g2o: https://github.com/RainerKuemmerle/g2o
 
-ardrone_autonomy(1. edited verison:https://github.com/tum-vision/ardrone_autonomy or original version:http://wiki.ros.org/ardrone_autonomy)
+ardrone_autonomy(edited verison:https://github.com/tum-vision/ardrone_autonomy or original version:http://wiki.ros.org/ardrone_autonomy)
 
 you also have to install other dependencies used for each libraries. In addition, you should create a new folder named Thirdparty under SLAMand put g2o and DBoW2 into it. Due to the limitation of the amount of uploading files, I have to upload g2o and DBow2 separaely.
 
