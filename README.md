@@ -5,7 +5,7 @@
 Editer: Tengfei Han, mouaad
 
 # Related article:
-https://ieeexplore.ieee.org/document/7886853/(If you use this project for your academic research, I reconmend you to  cite this paper.)
+https://ieeexplore.ieee.org/document/7886853/  (If you use this project for your academic research, I reconmend you to  cite this paper.)
 
 # Video:
 https://www.youtube.com/watch?v=vIR7NgsMt6U , https://www.youtube.com/watch?v=Cx94iW5SrGY
@@ -30,7 +30,7 @@ ros-kinetic+Ubuntu 16.04(probably good)
 please build up a rosbuild(http://wiki.ros.org/rosbuild) workspace to store these packages, if you want to use catkin, please edit and create relevant files. 
 
 # 3. Compiling problems
-It is not uncommon that you probably couldn't to complie and run successfully. If you really find some bugs , you could send an email to editers and original author directly.
+It is not uncommon that you fail to compile one of packages and build up new executable files. If you really find some bugs , you could send an email to editers and original author directly.
 
 # 4. Acknowledgements
 We use g2o for non-linear optimization, DBoW2 for loop detection, and ORBSLAM2 for feature extraction.
