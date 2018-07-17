@@ -4,9 +4,11 @@
 
 Editer: Tengfei Han
 
-# Related article:https://ieeexplore.ieee.org/document/7886853/(If you use this project for your academic research, I reconmend you to  cite this paper.)
+# Related article:
+https://ieeexplore.ieee.org/document/7886853/(If you use this project for your academic research, I reconmend you to  cite this paper.)
 
-# Video:https://www.youtube.com/watch?v=vIR7NgsMt6U , https://www.youtube.com/watch?v=Cx94iW5SrGY
+# Video:
+https://www.youtube.com/watch?v=vIR7NgsMt6U , https://www.youtube.com/watch?v=Cx94iW5SrGY
 
 # 1. Prerequisites
 OpenCV:https://opencv.org/  (reconmended version: less than 3.0.0)
@@ -25,7 +27,7 @@ We use g2o for non-linear optimization, DBoW2 for loop detection, and ORBSLAM2 f
 # 4. Lienses
 The source code is released under GPLv3 license.
 
-We are still working on improving the code reliability. For any technical issues, please contact Omid<esrafilian.omid@gmail.com>,Mouaad <boughellaba.mouaad@gmail.com>, Tengfei Han<hantengfei007@gmail.com>.
+We are still working on improving the code reliability. For any technical issues, please contact Omid <esrafilian.omid@gmail.com>, Mouaad <boughellaba.mouaad@gmail.com>, Tengfei Han<hantengfei007@gmail.com>.
  
       
 
