@@ -11,7 +11,7 @@ https://ieeexplore.ieee.org/document/7886853/  (If you use this project for your
 https://www.youtube.com/watch?v=vIR7NgsMt6U , https://www.youtube.com/watch?v=Cx94iW5SrGY
 
 # 1. Prerequisites
-The codes works for AR.drone 2.0 or 1.0, we assume that you already have brought a new one on Amazon. However, if you couldn't buy it temporarily,  it's available that using a simulator(http://wiki.ros.org/tum_simulator) published by TUM Robotic Group to simulate the whole process.
+The codes works for AR.drone 2.0 or 1.0, we assume that you already have  a new one on Amazon. However, if you couldn't buy it temporarily,  it's available that using a simulator(http://wiki.ros.org/tum_simulator) published by TUM Robotic Group to simulate the whole process.
 
 OpenCV:https://opencv.org/  (reconmended version: less than 3.0.0)
 
