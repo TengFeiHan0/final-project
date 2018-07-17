@@ -1,4 +1,4 @@
-# autonomous-flight-and-obstacles-avoidance-of-drone-by-monocular-SLAM
+# Autonomous Flight And Obstacles Avoidance Of Drone By MonocularSLAM
 
 # Orignial Author: Omid Esrafilian
 
