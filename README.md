@@ -18,7 +18,7 @@ g2o: https://github.com/RainerKuemmerle/g2o
 you also have to install other dependencies used for each libraries. In addition, you should create a new folder named Thirdparty under SLAMand put g2o and DBoW2 into it. Due to the limitation of the amount of uploading files, I have to upload g2o and DBow2 separaely.
 
 
-# 2. testing environment
+# 2. Testing environment
 ros-indigo + Ubuntu 14.04(best choice)
 
 ros-kinetic+Ubuntu 16.04(probably good)
