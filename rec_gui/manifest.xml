@@ -1,0 +1,24 @@
+<package>
+  <description brief="rec_gui">
+
+     rec_gui
+
+  </description>
+  <author>omid</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rec_gui</url>
+  <depend package="ardrone_autonomy"/>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="cv_bridge"/>
+  <depend package="sensor_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="pcl_conversions"/>
+  <depend package="pcl_ros"/>
+
+
+</package>
+
+
