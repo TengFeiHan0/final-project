@@ -1,5 +1,5 @@
 #include "mainwindow.h"
-#include "../build/ui_mainwindow.h"
+#include "ui_mainwindow.h"
 
 #define LOOP_DURATION_SEC       0.02
 #define LOOP_DURATION_MSEC      (LOOP_DURATION_SEC*1000)
