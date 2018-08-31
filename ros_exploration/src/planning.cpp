@@ -889,7 +889,7 @@ void Planning::find_farest_point(PointCloudT::Ptr _cloud,PointT robot,PointT hea
     float att2 = 100;
     float att3 = -100;
 
-    std::vector<std::pair<PointT,cv::Point2f> > _candidate_points(3,make_pair(PointT(0,0,0),0));
+    std::vector<std::pair<PointT,cv::Point2f> > _candidate_points(3,make_pair(PointT(0,0,0),cv::Point2f(0.0)));
     float dist = 0;
     float attitude = 0;
     PointT tmp_vec;
