@@ -1,8 +1,5 @@
 # Autonomous Flight And Obstacles Avoidance Of Drone By MonocularSLAM
 
-# Orignial Author: Omid Esrafilian
-
-Editer: Tengfei Han, mouaad
 
 # Related article:
 https://ieeexplore.ieee.org/document/7886853/  (If you use this project for your academic research, I reconmend you to  cite this paper.)
@@ -18,6 +15,8 @@ OpenCV:https://opencv.org/  (reconmended version: less than 3.0.0)
 Egien:http://eigen.tuxfamily.org/index.php?title=Main_Page
 
 g2o: https://github.com/RainerKuemmerle/g2o
+
+PCL:https://github.com/PointCloudLibrary/pcl  (1.8)
 
 ardrone_autonomy(edited verison:https://github.com/tum-vision/ardrone_autonomy or original version:http://wiki.ros.org/ardrone_autonomy)
 
