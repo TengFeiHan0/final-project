@@ -1,4 +1,4 @@
-# Autonomous Flight And Obstacles Avoidance Of Drone By MonocularSLAM
+# AFOA
 
 
 # Related article:
